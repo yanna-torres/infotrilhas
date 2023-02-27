@@ -1,0 +1,6 @@
+package com.example.infotrilhas
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
